@@ -1,0 +1,19 @@
+{
+  "name": "voting_web3",
+  "version": "1.0.0",
+  "description": "decentralised voting application",
+  "main": "index.js",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.13.0",
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madeeha Ishaque",
+  "license": "ISC"
+}
