@@ -19,6 +19,7 @@ npx hardhat compile
 ```
 npx hardhat run --network sepolia scripts/deploy.js
 ```
+Update the contract address and contract abi in the src/constants/constants.js file.
 
 After deploying your smart contract, simply run the command
 ```
